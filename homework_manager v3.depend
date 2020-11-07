@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604728653 source:c:\users\86134\desktop\作业\c语言实验课作业\作业七\homework_manager v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
